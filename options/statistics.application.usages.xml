@@ -1,0 +1,55 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="51" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="3" />
+      <entry feature="Npm.Packages.Install.Package.From.Package.Json" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="composer.action.addDependencyDialog from MainMenu" count="2" />
+      <entry feature="composer.action.install from ComposerEditorNotificationPanel" count="4" />
+      <entry feature="composer.action.updatePackage from AddDependency dialog" count="2" />
+      <entry feature="composer.options.updatePackage with --no-interaction --no-progress -n (default)" count="2" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="execute.GoApplicationRunConfiguration.Run" count="31" />
+      <entry feature="execute.JavascriptDebugType.Run" count="3" />
+      <entry feature="ide.settings.Afterglow" count="2" />
+      <entry feature="ide.settings.Appearance" count="4" />
+      <entry feature="ide.settings.Code_Completion" count="2" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Color_Scheme" count="11" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="24" />
+      <entry feature="ide.settings.Composer" count="1" />
+      <entry feature="ide.settings.ESLint" count="2" />
+      <entry feature="ide.settings.File_Colors" count="1" />
+      <entry feature="ide.settings.Font" count="19" />
+      <entry feature="ide.settings.General" count="6" />
+      <entry feature="ide.settings.JavaScript" count="6" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Laravel" count="2" />
+      <entry feature="ide.settings.Libraries" count="35" />
+      <entry feature="ide.settings.Material_Custom_Theme" count="8" />
+      <entry feature="ide.settings.Material_Theme" count="3" />
+      <entry feature="ide.settings.Notifications" count="2" />
+      <entry feature="ide.settings.PHP" count="2" />
+      <entry feature="ide.settings.Plugins" count="16" />
+      <entry feature="ide.settings.Ruby" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="2" />
+      <entry feature="ide.settings.Views_/_Template" count="1" />
+      <entry feature="ide.settings.Yeoman" count="2" />
+      <entry feature="ideaapp.started" count="141" />
+      <entry feature="json.schema.builtin.completion" count="239" />
+      <entry feature="structural.search" count="1" />
+      <entry feature="terminal.linux" count="96" />
+      <entry feature="tips.of.the.day.next" count="18" />
+      <entry feature="tips.of.the.day.prev" count="3" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="1" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="2" />
+      <entry feature="uml.ShowDiagram.Flash" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>

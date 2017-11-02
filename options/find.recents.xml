@@ -1,0 +1,47 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>small</find>
+      <find>location</find>
+      <find>button</find>
+      <find>console</find>
+      <find>toJS</find>
+      <find>paymentLogoExperiment</find>
+      <find>ptoken</find>
+      <find>aqua</find>
+      <find>AddToCartColorExperimen</find>
+      <find>logoToggle</find>
+      <find>showOnCartReview</find>
+      <find>pToken</find>
+      <find>info</find>
+      <find>params</find>
+      <find>param</find>
+      <find>span</find>
+      <find>bread</find>
+      <find>tras</find>
+      <find>vendor</find>
+      <find>MyAccountLink</find>
+      <find>myAcc</find>
+      <find>&lt;Page</find>
+      <find>vote</find>
+      <find>auth</find>
+      <find>history</find>
+      <find>order</find>
+      <find>user_id</find>
+      <find>id</find>
+      <find>cart_id</find>
+      <find>price</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$white</replace>
+      <replace>:</replace>
+      <replace>;</replace>
+      <replace>Wishlist</replace>
+      <replace>myaccount-link</replace>
+      <replace>myaccount-list-link</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Documents/hijup/frontend/src/browser/cart</dir>
+    </dirStrings>
+  </component>
+</application>

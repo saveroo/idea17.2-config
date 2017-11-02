@@ -1,0 +1,39 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/hijup/backend/app/graph/types/orderhistory_type.rb" timestamp="1476985541984">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="12" column="13" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICBmaWVsZCA6Y2FydCBkbwoK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>field :subtotal, types.Int</text>
+      </register>
+      <register name=":" type="4">
+        <text>help</text>
+      </register>
+      <register name="-" type="4">
+        <text>field :subtotal, types.Int</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>help</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>

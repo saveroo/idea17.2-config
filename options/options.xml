@@ -1,0 +1,65 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="10" />
+    <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
+    <property name="android-component-compatibility-check" value="1508926512647" />
+    <property name="file.chooser.recent.files" value="/var/www/html/cloudmirror&#10;/var/www/html/cloudmirror/app/Model&#10;/var/www/html/rubix/rubix&#10;/win/Linux/html/goodmaker-front&#10;/var/www/html/goodmaker-react&#10;/var/www/html/goodmaker-laravel-v2/resources/views&#10;/var/www/html/goodmaker-laravel-v2&#10;/home/saveroo/Downloads/localhost.sql&#10;/var/www/html/goodmaker-laravel&#10;/home/saveroo/.gvm/gos/go1.7&#10;/var/www/html/repository/vp-cleaner&#10;/var/www/html/repository/intern-absence/src&#10;/var/www/html/repository/intern-absence/react.d.ts&#10;/var/www/html/repository/intern-absence/src/node_modules/react-dom&#10;/var/www/html/repository/intern-absence/src/node_modules/eslint&#10;/home/saveroo/.IntelliJIdea2016.2/config&#10;/var/www/html/repository/intern-absence&#10;/var/www/html/rumahsurga/api&#10;/var/www/html/rumahsurga/backend&#10;/home/saveroo/Documents/hijup/frontend&#10;/home/saveroo/Documents/hijup/backend" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="153" />
+    <property name="PLUGIN_FILTER" value="material&#10;Javascri&#10;es6&#10;react&#10;reac" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="ColorChooser.RecentColors" value="255-182-116-255" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="evlsprt3.IU-163.6512.17" value="10" />
+    <property name="ideavim.statistics.timestamp" value="1476984867866" />
+    <property name="evlsprt3.163" value="16" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="KEYMAP" value="file&#10;resta&#10;init&#10;generate&#10;new" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.wizard.group" value="WEB_MODULE" />
+    <property name="project.wizard.template" value="React App" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Other" />
+    <property name="LayoutCode.rearrangeEntriesJSX Harmony" value="false" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="larav" />
+    <property name="go.tutorial.project.notification.shown" value="true" />
+    <property name="go.last.update.timestamp" value="1509271833543" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="settings.code.style.selected.tab.ruby" value="Code Generation" />
+    <property name="SplitFileEditor.Proportion" value="0.58492625" />
+    <property name="file.gist.reindex.count" value="47733" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Darker" />
+    <property name="Default.savedEditorTheme" value="_@user_Material Lighter" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="idea.background.frame.default" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="idea.background.frame.mt" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="fileTypeChangedCounter" value="15" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.chrisrm.idea.MaterialThemeUIFork.theme" value="mt.default" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+  </component>
+</application>

@@ -1,0 +1,4 @@
+IdeaVIM
+com.jedide.apex
+com.widerwille.afterglow
+org.intellij.plugins.markdown

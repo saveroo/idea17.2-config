@@ -1,0 +1,331 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="/var/www/html/repository/vp-cleaner/." />
+        <option value="/var/www/html/golang/." />
+        <option value="/var/www/html/goodmaker-laravel-v2" />
+        <option value="/var/www/html/cloudmirror" />
+        <option value="/var/www/html/goodmaker-laravel" />
+        <option value="/win/Linux/html/goodmaker-front" />
+        <option value="/var/www/html/rubix/rubix" />
+        <option value="/var/www/html/goodmaker-react" />
+        <option value="$USER_HOME$/Documents/hijup/backend/." />
+        <option value="$USER_HOME$/Documents/hijup/backend" />
+        <option value="$USER_HOME$/Documents/hijup/selenium-test" />
+        <option value="/tmp/README.md" />
+        <option value="/tmp/exebuilder.php" />
+        <option value="/var/www/html/repository/laravel-react-router-refetch" />
+        <option value="$USER_HOME$/Documents/hijup/frontend" />
+        <option value="/var/www/html/repository/vp-cleaner" />
+        <option value="/var/www/html/repository/intern-absence-logger/src" />
+        <option value="/var/www/html/repository/intern-absence-logger" />
+        <option value="/var/www/html/repository/ubuntu-surface-pro-3/." />
+        <option value="/var/www/html/repository/ubuntu-surface-pro-3" />
+        <option value="/var/www/html/repository/intern-absence" />
+        <option value="/var/www/html/repository/intern-absence/src" />
+        <option value="/var/www/html/rumahsurga/api" />
+        <option value="/var/www/html/learn/reduxer" />
+        <option value="/var/www/html/rumahsurga/backend" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="/var/www/html/repository/vp-cleaner/." />
+      </list>
+    </option>
+    <option name="lastPath" value="/var/www/html/repository/vp-cleaner/." />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/hijup/backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482412743981" />
+              <option name="buildTimestamp" value="1481020404478" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/hijup/backend/.">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506468634277" />
+              <option name="buildTimestamp" value="1481020431069" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/hijup/frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481803564890" />
+              <option name="buildTimestamp" value="1481020421662" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/hijup/selenium-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482150003083" />
+              <option name="buildTimestamp" value="1481020426730" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/README.md">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482021019544" />
+              <option name="buildTimestamp" value="1481020438660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/exebuilder.php">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481913029637" />
+              <option name="buildTimestamp" value="1481020431888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/main.go">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481275887076" />
+              <option name="buildTimestamp" value="1481020389262" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/cloudmirror">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508782359756" />
+              <option name="buildTimestamp" value="1506404276248" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/golang/.">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509271827920" />
+              <option name="buildTimestamp" value="1506404260062" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/goodmaker-laravel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508443582040" />
+              <option name="buildTimestamp" value="1506404259084" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/goodmaker-laravel-v2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508926528107" />
+              <option name="buildTimestamp" value="1506404275866" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/goodmaker-react">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508394580035" />
+              <option name="buildTimestamp" value="1506404263881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/learn/reduxer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1476723111521" />
+              <option name="buildTimestamp" value="1473354000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/intern-absence">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.7" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481021518131" />
+              <option name="buildTimestamp" value="1480425988154" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/intern-absence-logger">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481231241777" />
+              <option name="buildTimestamp" value="1481020409238" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/intern-absence-logger/src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481264467676" />
+              <option name="buildTimestamp" value="1481020434027" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/intern-absence/src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.7" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480888878028" />
+              <option name="buildTimestamp" value="1480425992646" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/laravel-react-router-refetch">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481828193945" />
+              <option name="buildTimestamp" value="1481020399479" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/ubuntu-surface-pro-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481215150530" />
+              <option name="buildTimestamp" value="1481020438429" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/ubuntu-surface-pro-3/.">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481215480907" />
+              <option name="buildTimestamp" value="1481020409238" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/vp-cleaner">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481276230810" />
+              <option name="buildTimestamp" value="1481020413499" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/repository/vp-cleaner/.">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509319360194" />
+              <option name="buildTimestamp" value="1506404238035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/rubix/rubix">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508402748860" />
+              <option name="buildTimestamp" value="1506404263881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/rumahsurga/api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1476783450169" />
+              <option name="buildTimestamp" value="1473354000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/www/html/rumahsurga/backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1475265012955" />
+              <option name="buildTimestamp" value="1473354000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/win/Linux/html/goodmaker-front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508405926976" />
+              <option name="buildTimestamp" value="1506404263881" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

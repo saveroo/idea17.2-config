@@ -1,0 +1,31 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Console.Jdbc.Execute@EditorToolbar" count="1" />
+      <entry action="Console.TableResult.CompareWith@EditorToolbar" count="1" />
+      <entry action="Console.TableResult.Options@EditorToolbar" count="2" />
+      <entry action="Console.TableResult.Reload@EditorToolbar" count="127" />
+      <entry action="Console.TableResult.ShowQuery@unknown" count="1" />
+      <entry action="Console.TableResult.Submit@EditorToolbar" count="3" />
+      <entry action="DBNavigator.Actions.ConnectionSettings.CreateConnection@" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="5" />
+      <entry action="DatabaseView.CloseConnectionAction@ProjectViewToolbar" count="2" />
+      <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="3" />
+      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="14" />
+      <entry action="Jdbc.OpenEditor.Grid.DDL@unknown" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.database.dataSource.DataSourceScopeEditor$RefreshAction@DbSourceScopeEditor" count="3" />
+      <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction@ProjectViewToolbar" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.FindAllAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.find.editorHeaderActions.SelectAllAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.lang.jsgraphql.ide.actions.JSGraphQLRestartLanguageServiceAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@EditorToolbar" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
+      <entry action="com.quokka.javascript.actions.StopQuokkaOnFile@unknown" count="1" />
+    </counts>
+  </component>
+</application>
